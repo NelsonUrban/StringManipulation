@@ -1,0 +1,15 @@
+C:\Users\urban\source\repos\StringManipulation\StringManipulationSort\bin\Debug\net6.0\StringManipulationSort.exe
+C:\Users\urban\source\repos\StringManipulation\StringManipulationSort\bin\Debug\net6.0\StringManipulationSort.deps.json
+C:\Users\urban\source\repos\StringManipulation\StringManipulationSort\bin\Debug\net6.0\StringManipulationSort.runtimeconfig.json
+C:\Users\urban\source\repos\StringManipulation\StringManipulationSort\bin\Debug\net6.0\StringManipulationSort.dll
+C:\Users\urban\source\repos\StringManipulation\StringManipulationSort\bin\Debug\net6.0\StringManipulationSort.pdb
+C:\Users\urban\source\repos\StringManipulation\StringManipulationSort\obj\Debug\net6.0\StringManipulationSort.csproj.AssemblyReference.cache
+C:\Users\urban\source\repos\StringManipulation\StringManipulationSort\obj\Debug\net6.0\StringManipulationSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urban\source\repos\StringManipulation\StringManipulationSort\obj\Debug\net6.0\StringManipulationSort.AssemblyInfoInputs.cache
+C:\Users\urban\source\repos\StringManipulation\StringManipulationSort\obj\Debug\net6.0\StringManipulationSort.AssemblyInfo.cs
+C:\Users\urban\source\repos\StringManipulation\StringManipulationSort\obj\Debug\net6.0\StringManipulationSort.csproj.CoreCompileInputs.cache
+C:\Users\urban\source\repos\StringManipulation\StringManipulationSort\obj\Debug\net6.0\StringManipulationSort.dll
+C:\Users\urban\source\repos\StringManipulation\StringManipulationSort\obj\Debug\net6.0\refint\StringManipulationSort.dll
+C:\Users\urban\source\repos\StringManipulation\StringManipulationSort\obj\Debug\net6.0\StringManipulationSort.pdb
+C:\Users\urban\source\repos\StringManipulation\StringManipulationSort\obj\Debug\net6.0\StringManipulationSort.genruntimeconfig.cache
+C:\Users\urban\source\repos\StringManipulation\StringManipulationSort\obj\Debug\net6.0\ref\StringManipulationSort.dll
